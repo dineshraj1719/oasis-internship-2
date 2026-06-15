@@ -1,4 +1,5 @@
 # oasis-internship-2
+# Car Price Prediction
 
 This project focuses on predicting the selling price of a car based on various features such as brand, model, fuel type, mileage, engine capacity, transmission type, and other vehicle specifications. The objective is to build a machine learning model that can accurately estimate car prices and identify the factors that most influence vehicle valuation.
 
